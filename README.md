@@ -5,7 +5,7 @@ SBC - Prototyping Boards <img align="right" src="https://github.com/CrashOverrid
 
 <!-- Repo Cover Image -->
 <p style="background-color:rgba(22,22,22,1.00)" align="center">
-<img align="center" src="https://github.com/CrashOverrideProductions/Bad_USB/blob/main/images/background.jpg?raw=true" />
+<img align="center" src="https://github.com/CrashOverrideProductions/SBC-Proto-Boards/blob/main/header.jpg?raw=true">
 </p>
 
 <!-- Repo Stats -->
